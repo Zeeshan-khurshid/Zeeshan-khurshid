@@ -46,7 +46,7 @@ Computer Science Student • Java Developer • MERN Stack Developer
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/Zeeshan-khurshid/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -144,7 +144,7 @@ Computer Science Student • Java Developer • MERN Stack Developer
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcode.com/u/Zeeshan-khurshid/?theme=dark&font=Nunito&ext=heatmap"/>
 
 </p>
 
