@@ -23,15 +23,12 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 - Data Structures & Algorithms
 - MERN Stack
 - Machine Learning
-- System Design
+
 
 🚀 Goal
 
 - Software Development Engineer (SDE)
 
-⚡ Fun Fact
-
-> I enjoy solving coding problems and building real-world applications.
 
 ---
 
@@ -39,11 +36,11 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/zeeshan-khurshid-101b62323/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:khurshidzeeshan406@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -123,33 +120,11 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zeeshan-khurshid&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-khurshid&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-khurshid&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zeeshan-khurshid&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
