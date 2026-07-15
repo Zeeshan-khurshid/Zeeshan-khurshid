@@ -118,37 +118,7 @@ Computer Science Student • Java Developer • MERN Stack Developer
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zeeshan-khurshid&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-khurshid&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshan-khurshid&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 LeetCode
-
-<p align="center">
-
-<img src="https://leetcode.com/u/Zeeshan-khurshid/?theme=dark&font=Nunito&ext=heatmap"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
