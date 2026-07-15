@@ -1,47 +1,53 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Khurshid</h1>
 
 <h3 align="center">
-Computer Science Student • Java Developer • MERN Stack Enthusiast
+Computer Science Student • Java Developer • MERN Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;MERN+Stack+Developer;DSA+Learner;Machine+Learning+Enthusiast;Always+Learning+New+Things🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Machine+Learning+Learner" alt="Typing SVG"/>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 **B.Tech CSE (4th Year)** at GLA University
+🎓 **B.Tech CSE (4th Year)** at **GLA University**
 
-💻 Passionate about Software Development
+💻 Passionate about **Software Development**
 
 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- MERN Stack
-- Machine Learning
+- 📚 Data Structures & Algorithms
+- ⚛️ MERN Stack
+- 🤖 Machine Learning
 
-
-🚀 Goal
+🎯 Goal
 
 - Software Development Engineer (SDE)
 
+⚡ Fun Fact
+
+> I love building real-world applications and solving coding problems.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/zeeshan-khurshid-101b62323/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/zeeshan-khurshid-101b62323/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:khurshidzeeshan406@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -54,67 +60,71 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 
 <p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
-
----
 
 ### Frontend
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://skillicons.dev/icons?i=html"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://skillicons.dev/icons?i=css"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 
 </p>
-
----
 
 ### Backend
 
 <p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://skillicons.dev/icons?i=express"/>
 
 </p>
-
----
 
 ### Database
 
 <p>
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
-
----
 
 ### Tools
 
 <p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://skillicons.dev/icons?i=git"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zeeshan-khurshid&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-khurshid&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -124,17 +134,17 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-khurshid&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshan-khurshid&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 LeetCode
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-khurshid&theme=tokyo-night"/>
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
 
 </p>
 
@@ -152,19 +162,23 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 
 ⭐ Machine Learning Projects
 
+⭐ Portfolio Website
+
 ---
 
-# 💡 Quote of the Day
+# 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Zeeshan-khurshid&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Zeeshan-khurshid&style=for-the-badge&color=blue"/>
 
 </p>
+
+---
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
