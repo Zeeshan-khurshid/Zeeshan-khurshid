@@ -14,7 +14,7 @@ Computer Science Student • Java Developer • MERN Stack Enthusiast
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech CSE (3rd Year)** at GLA University
+🎓 **B.Tech CSE (4th Year)** at GLA University
 
 💻 Passionate about Software Development
 
